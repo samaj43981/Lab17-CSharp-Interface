@@ -1,0 +1,15 @@
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.exe
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.deps.json
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.runtimeconfig.json
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.dll
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\bin\Debug\net9.0\Lab17_Ex04.pdb
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.AssemblyInfoInputs.cache
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.AssemblyInfo.cs
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.csproj.CoreCompileInputs.cache
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.sourcelink.json
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.dll
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\refint\Lab17_Ex04.dll
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.pdb
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\Lab17_Ex04.genruntimeconfig.cache
+C:\Users\คอม\OneDrive\เอกสาร\GitHub\Lab17-CSharp-Interface\Lab17_Ex04\obj\Debug\net9.0\ref\Lab17_Ex04.dll
